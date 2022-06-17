@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProiectPOO</string>
+    <string name="Play">Play</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="welcome_to_tictactoe">Welcome to TicTacToe</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="choose_your_game_mode">Choose your game mode:</string>
+</resources>
